@@ -1,5 +1,5 @@
 {
-  "tokoA": {
+  "tokoA": [{
     "nama": "OLSHOPBABY",
     "owner": "JOKO",
     "produk": [
@@ -19,5 +19,5 @@
         "harga": "2000"
       }
     ]
-  }
+  }]
 }
