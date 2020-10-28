@@ -1,22 +1,19 @@
 {
-  "tokoA": [{
-    "nama": "OLSHOPBABY",
-    "owner": "JOKO",
-    "produk": [
+  "mahasiswa": [{
+    "nim": "185150707111008",
+    "nama": "Azzamuddien",
+    "angkatan": "2018",
+    "kelas": "A",
+    "mataKuliah": [
       {
-        "namaProduk": "Diaper",
-        "stok": "1",
-        "harga": "4000"
+        "kode": "COM1029",
+        "namaM": "Pemrograman",
+        "sks": "4"
       },
       {
-        "namaProduk": "Susu",
-        "stok": "10",
-        "harga": "3000"
-      },
-      {
-        "namaProduk": "Baju Bayi",
-        "stok": "100",
-        "harga": "2000"
+        "kode": "U1029",
+        "namaM": "Telekomunikasi",
+        "sks": "2"
       }
     ]
   }]
